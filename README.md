@@ -20,7 +20,7 @@ website-folder/
 - │   ├── bootstrap.min.css
 - │   └── Style.css
 - └── images/
---    └── bg-masthead.jpg
+-     └── bg-masthead.jpg
 
 
 ## Step 2: Initialize Git and Push to GitHub
