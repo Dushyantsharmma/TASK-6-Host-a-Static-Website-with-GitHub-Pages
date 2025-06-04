@@ -13,30 +13,26 @@
 ---
 
 ## Folder Structure:
-
 website-folder/
 ├── index.html
 ├── CSS/
-│ ├── all.min.css
-│ ├── bootstrap.min.css
-│ └── Style.css
+│   ├── all.min.css
+│   ├── bootstrap.min.css
+│   └── Style.css
 └── images/
-└── bg-masthead.jpg
+    └── bg-masthead.jpg
+
 
 ## Step 2: Initialize Git and Push to GitHub
 
-
----
-
-## Step 1: Initialize Git and Push to GitHub
-
-```bash
+Follow this cmds:
 git init
 git add .
 git commit -m "initial commit"
 git branch -M main
-git remote add origin https://github.com/<your-username>/my-static-site.git
+git remote add origin https://github.com//my-static-site.git
 git push -u origin main
+
 
 ## Step 3: Enable GitHub Pages
 
