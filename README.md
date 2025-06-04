@@ -14,34 +14,34 @@
 
 ## Folder Structure:
 website-folder/
-├── index.html
-├── CSS/
-│   ├── all.min.css
-│   ├── bootstrap.min.css
-│   └── Style.css
-└── images/
-    └── bg-masthead.jpg
+- ├── index.html
+- ├── CSS/
+- │   ├── all.min.css
+- │   ├── bootstrap.min.css
+- │   └── Style.css
+- └── images/
+-     └── bg-masthead.jpg
 
 
 ## Step 2: Initialize Git and Push to GitHub
 
 Follow this cmds:
-git init
-git add .
-git commit -m "initial commit"
-git branch -M main
-git remote add origin https://github.com//my-static-site.git
-git push -u origin main
+- git init
+- git add .
+- git commit -m "initial commit"
+- git branch -M main
+- git remote add origin https://github.com//my-static-site.git
+- git push -u origin main
 
 
 ## Step 3: Enable GitHub Pages
 
-Go to your repo on GitHub
-Click Settings → Pages
-Under Source, choose:
-Branch: main
-Folder: / (root)
-Click Save
+- Go to your repo on GitHub
+- Click Settings → Pages
+- Under Source, choose:
+- Branch: main
+- Folder: / (root)
+- Click Save
 
 ## Step 4: Access your live site
 - https://dushyantsharmma.github.io/TASK-6-Host-a-Static-Website-with-GitHub-Pages/
