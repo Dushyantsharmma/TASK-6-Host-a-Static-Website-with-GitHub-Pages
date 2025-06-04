@@ -33,7 +33,6 @@ Follow this cmds:
 - git branch -M main
 - git remote add origin https://github.com//my-static-site.git
 - git push -u origin main
-![image](C:\Users\227du\OneDrive\Pictures\Screenshots)
 
 # After files are pushed into github repo automatically action will work and complete the Build ---> report build status ---> deploy
 
@@ -50,7 +49,6 @@ Follow this cmds:
     - Click save
     - GitHub will give you a live website link after a few seconds.
 
-![image](https://github.com/user-attachments/assets/0ecc522c-41f9-48db-ac18-320a93b4834c)
 
 Then finally access the application use for github provided link:
 - https://dushyantsharmma.github.io/TASK-6-Host-a-Static-Website-with-GitHub-Pages/
