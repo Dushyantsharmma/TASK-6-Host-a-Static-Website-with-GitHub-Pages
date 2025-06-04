@@ -33,7 +33,7 @@ Follow this cmds:
 - git branch -M main
 - git remote add origin https://github.com//my-static-site.git
 - git push -u origin main
-![image](https://github.com/user-attachments/assets/db6e5ca0-d2a2-4385-acd2-fc3b185796c3)
+![image](C:\Users\227du\OneDrive\Pictures\Screenshots)
 
 # After files are pushed into github repo automatically action will work and complete the Build ---> report build status ---> deploy
 
