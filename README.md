@@ -7,8 +7,8 @@
 - GitHub Pages
 
 ## Deliverables:
-- App link: https://ramakrishnaragi.github.io/TASK-6-Host-a-Static-Website-with-GitHub-Pages/
-- Repo link: https://github.com/Ramakrishnaragi/TASK-6-Host-a-Static-Website-with-GitHub-Pages.git
+- App link: https://github.com/Dushyantsharmma/TASK-6-Host-a-Static-Website-with-GitHub-Pages
+- Repo link: https://dushyantsharmma.github.io/TASK-6-Host-a-Static-Website-with-GitHub-Pages/
 
 ---
 
