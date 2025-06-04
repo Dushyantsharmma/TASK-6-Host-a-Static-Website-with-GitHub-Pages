@@ -23,8 +23,14 @@ website-folder/
 └── images/
 └── bg-masthead.jpg
 
-Step 2: Initialize Git and Push to GitHub
+## Step 2: Initialize Git and Push to GitHub
 
+
+---
+
+## Step 1: Initialize Git and Push to GitHub
+
+```bash
 git init
 git add .
 git commit -m "initial commit"
@@ -32,7 +38,7 @@ git branch -M main
 git remote add origin https://github.com/<your-username>/my-static-site.git
 git push -u origin main
 
-Step 3: Enable GitHub Pages
+## Step 3: Enable GitHub Pages
 
 Go to your repo on GitHub
 Click Settings → Pages
@@ -41,6 +47,6 @@ Branch: main
 Folder: / (root)
 Click Save
 
-Step 4: Access your live site
-https://dushyantsharmma.github.io/TASK-6-Host-a-Static-Website-with-GitHub-Pages/
+## Step 4: Access your live site
+- https://dushyantsharmma.github.io/TASK-6-Host-a-Static-Website-with-GitHub-Pages/
 
